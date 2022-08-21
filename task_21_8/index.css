@@ -1,0 +1,21 @@
+.DV1{
+border:  20px solid;
+border-color: blueviolet;
+background-color: blueviolet;
+color: white; 
+margin-top: 5%;   
+}
+.DV2{
+    border:  20px solid;
+    border-color:#e0b0ff;
+    background-color: #e0b0ff;
+    color: white;
+    margin-top: 1%;    
+    }
+.DV3{
+    border:  20px solid;
+    border-color:#f3e6fc;
+    background-color:#f3e6fc ;
+    color: white;
+    margin-top: 1%;    
+        }
