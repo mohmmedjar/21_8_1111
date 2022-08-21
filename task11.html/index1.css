@@ -1,0 +1,26 @@
+span{
+    background-color: blanchedalmond;
+}
+.para2 , .opohead1 {
+    color: red;
+} 
+span.opoaidm {
+    background-color: yellow;
+}
+.para2{ border:1px dotted;
+    margin-top: 7px;
+    border-top: dashed;
+    width: 35%;
+    box-shadow: 3px 3px;
+    margin-bottom: 25px ;
+
+}
+.para {border: 3px solid;
+    width: 35%;
+    box-shadow: 3px 3px;
+    margin: bottom 25px; 
+
+}
+body{
+ margin: 15px;   
+}
